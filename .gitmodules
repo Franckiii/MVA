@@ -1,3 +1,6 @@
 [submodule "Object recognition and computer vision/Assignments/Assignment 3/A3_RecVis"]
 	path = Object recognition and computer vision/Assignments/Assignment 3/A3_RecVis
 	url = https://github.com/francklaborde/A3_RecVis.git
+[submodule "Reinforcement Learning/RLclass_MVA"]
+	path = Reinforcement Learning/RLclass_MVA
+	url = https://github.com/erachelson/RLclass_MVA.git
